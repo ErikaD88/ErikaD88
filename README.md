@@ -2,7 +2,7 @@
 
 Hi there 👋
 
-I’m Erika Dorsainvil, a student pursuing a Data Analytics and Visualization certification from the University of North Carolina in Chapel Hill.
+I’m Erika Dorsainvil, a student pursuing a Data Analytics and Visualization certification from the University of North Carolina at Chapel Hill.
 
 I’m passionate about leveraging my skills to collaborate with researchers in mining, analyzing, visualizing, and delivering insights from diverse datasets. 
 My experience includes working on projects involving data analysis, visualization, and building data pipelines.
